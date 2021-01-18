@@ -15,7 +15,7 @@ GitHub komut satırını kullanırken kullanabileceğiniz yüzlerce komut vardı
 
 [![Alt text](https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY)
 
-
+zsfszsfa
 ## Sık Kullanılan GitHub Terimleri
 
 ### Repository
